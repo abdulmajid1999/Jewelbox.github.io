@@ -1,0 +1,517 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Jewelry
+build_property.RootNamespace = Jewelry
+build_property.ProjectDir = C:\Users\pc\source\repos\Jewelry\Jewelry\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pc\source\repos\Jewelry\Jewelry
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/BrandMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNc3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/BrandMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNc3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/BrandMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNc3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/BrandMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNc3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/BrandMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRNc3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CatMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0TXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CatMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0TXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CatMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0TXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CatMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0TXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CatMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0TXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CertifyMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmeU1zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CertifyMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmeU1zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CertifyMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmeU1zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CertifyMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmeU1zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/CertifyMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmeU1zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltTXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltTXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltTXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltTXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltTXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltyMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eU1zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltyMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eU1zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltyMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eU1zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltyMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eU1zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltyMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eU1zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltySubMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eVN1Yk1zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltySubMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eVN1Yk1zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltySubMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eVN1Yk1zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltySubMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eVN1Yk1zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/DimQltySubMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltUWx0eVN1Yk1zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/GoldKrtMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29sZEtydE1zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/GoldKrtMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29sZEtydE1zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/GoldKrtMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29sZEtydE1zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/GoldKrtMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29sZEtydE1zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/GoldKrtMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29sZEtydE1zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbURldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbURldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbURldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbURldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbURldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbU1zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbU1zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbU1zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbU1zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ItemMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbU1zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/pay/pay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGF5XHBheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/pay/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGF5XFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ProdMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZE1zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ProdMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZE1zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ProdMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZE1zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ProdMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZE1zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/ProdMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZE1zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Shared/Components/SmallCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU21hbGxDYXJ0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Shared/_userLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVNc3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVNc3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVNc3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVNc3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVNc3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneQltyMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVRbHR5TXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneQltyMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVRbHR5TXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneQltyMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVRbHR5TXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneQltyMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVRbHR5TXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/StoneQltyMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvbmVRbHR5TXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/UserRegMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJlZ01zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/UserRegMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJlZ01zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/UserRegMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJlZ01zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/UserRegMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJlZ01zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/UserRegMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJlZ01zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/UserRegMsts/userlogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJlZ01zdHNcdXNlcmxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/user/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/user/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/user/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/user/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/user/shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxzaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/user/singleshop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxzaW5nbGVzaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/Jewelry/Jewelry/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kbjp4fmupc

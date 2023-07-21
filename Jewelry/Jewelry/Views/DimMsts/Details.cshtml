@@ -1,0 +1,72 @@
+﻿@model Jewelry.Models.DimMst
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>DimMst</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.itemMst)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.itemMst.Prod_Quality)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dimQltyMst)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dimQltyMst.DimQlty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dimQltySubMst)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dimQltySubMst.DimQlty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dim_Crt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dim_Crt)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dim_Pcs)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dim_Pcs)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dim_Gm)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dim_Gm)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dim_Size)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dim_Size)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dim_Rate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dim_Rate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dim_Amt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dim_Amt)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.DimMstId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
